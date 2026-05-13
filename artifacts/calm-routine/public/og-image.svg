@@ -1,0 +1,27 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#faf9f7"/>
+
+  <!-- Subtle top rule -->
+  <rect x="80" y="80" width="120" height="2" fill="#1a1614"/>
+
+  <!-- Brand label -->
+  <text x="80" y="138" font-family="Georgia, serif" font-size="18" letter-spacing="5" fill="#7a6f6a" font-style="normal">CALMROUTINE</text>
+
+  <!-- Main headline -->
+  <text x="80" y="248" font-family="Georgia, serif" font-size="88" fill="#1a1614" font-style="italic">Simple finds for</text>
+  <text x="80" y="348" font-family="Georgia, serif" font-size="88" fill="#1a1614" font-style="italic">a calmer routine.</text>
+
+  <!-- Subtext -->
+  <text x="80" y="432" font-family="Georgia, serif" font-size="26" fill="#7a6f6a">Home · Beauty · Self-care · Organization</text>
+
+  <!-- Bottom divider -->
+  <rect x="80" y="510" width="1040" height="1" fill="#e4ddd8"/>
+
+  <!-- Bottom tagline -->
+  <text x="80" y="548" font-family="Georgia, serif" font-size="20" fill="#7a6f6a">A weekly edit for your everyday routines. Join the list.</text>
+
+  <!-- Bottom-right monogram -->
+  <rect x="1080" y="504" width="56" height="56" rx="8" fill="#1a1614"/>
+  <text x="1108" y="545" font-family="Georgia, serif" font-size="34" fill="#faf9f7" text-anchor="middle" font-style="italic">C</text>
+</svg>
